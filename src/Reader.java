@@ -3,12 +3,8 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-/* INF1000 Oblig 5
- * Oppgave 5.5
+/* 
  * Reader.java
- * Knut Erik Eldjarn
- * keeldjar
- * 
  */
 
 public class Reader {
