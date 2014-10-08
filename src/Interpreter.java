@@ -1,9 +1,5 @@
-/* INF1000 Oblig 5
- * Oppgave 5.5
+/* 
  * Interpreter.java
- * Knut Erik Eldjarn
- * keeldjar
- * 
  */
 
 public class Interpreter {
